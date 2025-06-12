@@ -1,4 +1,4 @@
-# 🌍 WorldDB Assignment 1 – SQL Queries
+# 🌍 WorldDB Assignment – SQL Queries
 
 ## 📄 Overview
 
@@ -21,12 +21,17 @@ Through this assignment, the following SQL skills were developed:
 ![image](https://github.com/user-attachments/assets/f7539b34-b125-4d43-a9da-85aa1d30c73b)
  
 - **Aggregate functions** like `COUNT`, `AVG`, and `GROUP BY`
+  
+![image](https://github.com/user-attachments/assets/94427569-b253-4044-94d3-eee54c365916)
+
 - **Joining tables** using `INNER JOIN`
 - **Subqueries** for nested data retrieval
 - **Calculating derived metrics** (e.g., GDP per capita, population density)
+  
 ![image](https://github.com/user-attachments/assets/74a1cfd5-adcd-4bce-a571-8666d04f6a9d)
  
 - **Alias usage** for improved readability
+  
 ![image](https://github.com/user-attachments/assets/131e6626-9295-4ea8-9246-4f87c03d6870)
 
 
