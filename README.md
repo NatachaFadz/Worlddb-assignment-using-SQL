@@ -12,13 +12,23 @@ Through this assignment, the following SQL skills were developed:
 
 - **Basic SELECT statements** for retrieving data
 - **Filtering data** using `WHERE`, `LIKE`, and `BETWEEN`
+
+![image](https://github.com/user-attachments/assets/1f9ec77d-5d7d-4d6e-8b5a-75ebeb8cc4cb)
+
 - **Sorting results** with `ORDER BY`
 - **Limiting output** using `LIMIT` and `OFFSET`
+
+![image](https://github.com/user-attachments/assets/f7539b34-b125-4d43-a9da-85aa1d30c73b)
+ 
 - **Aggregate functions** like `COUNT`, `AVG`, and `GROUP BY`
 - **Joining tables** using `INNER JOIN`
 - **Subqueries** for nested data retrieval
 - **Calculating derived metrics** (e.g., GDP per capita, population density)
+![image](https://github.com/user-attachments/assets/74a1cfd5-adcd-4bce-a571-8666d04f6a9d)
+ 
 - **Alias usage** for improved readability
+![image](https://github.com/user-attachments/assets/131e6626-9295-4ea8-9246-4f87c03d6870)
+
 
 ---
 
