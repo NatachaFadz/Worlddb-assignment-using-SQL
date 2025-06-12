@@ -63,6 +63,6 @@ Through this assignment, the following SQL skills were developed:
 
 ## 📂 File
 
-- **Filename:** `worlddb assignment 1.sql`
+- **Filename:** ``worlddb assignment.sql``
 - **Content:** Contains 19 SQL queries with comments explaining each task.
 
