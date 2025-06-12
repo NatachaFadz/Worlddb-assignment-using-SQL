@@ -61,6 +61,13 @@ Through this assignment, the following SQL skills were developed:
 
 ---
 
+## ✅ Conclusion
+
+This assignment showcases practical SQL techniques for data exploration and analysis using a real-world dataset. It's a great resource for learning or teaching SQL fundamentals.
+
+---
+
+
 ## 📂 File
 
 - **Filename:** ``worlddb assignment.sql``
